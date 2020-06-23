@@ -1,0 +1,33 @@
+\babel@toc {french}{}
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}% 
+\contentsline {subsection}{\numberline {1.1}Un peu d'histoire...}{2}{subsection.1.1}% 
+\contentsline {subsection}{\numberline {1.2}Int\IeC {\'e}r\IeC {\^e}t du Principe Fondamental de la Dynamique et lien avec le Th\IeC {\'e}or\IeC {\`e}me de l'Energie Cin\IeC {\'e}tique}{2}{subsection.1.2}% 
+\contentsline {section}{\numberline {2}Principe Fondamental de la Dynamique}{3}{section.2}% 
+\contentsline {subsection}{\numberline {2.1}R\IeC {\'e}f\IeC {\'e}rentiel d'\IeC {\'e}tude}{3}{subsection.2.1}% 
+\contentsline {subsubsection}{\numberline {a)}Le r\IeC {\'e}f\IeC {\'e}rentiel de Copernic}{3}{subsubsection.2.1.1}% 
+\contentsline {subsubsection}{\numberline {b)}Le r\IeC {\'e}f\IeC {\'e}rentiel Galil\IeC {\'e}en}{3}{subsubsection.2.1.2}% 
+\contentsline {subsection}{\numberline {2.2}Cas du point mat\IeC {\'e}riel (rappel de physique)}{4}{subsection.2.2}% 
+\contentsline {subsection}{\numberline {2.3}Cas du solide}{4}{subsection.2.3}% 
+\contentsline {subsubsection}{\numberline {a)}Th\IeC {\'e}or\IeC {\`e}me de la r\IeC {\'e}sultante dynamique}{4}{subsubsection.2.3.1}% 
+\contentsline {subsubsection}{\numberline {b)}Th\IeC {\'e}or\IeC {\`e}me du moment dynamique}{5}{subsubsection.2.3.2}% 
+\contentsline {subsubsection}{\numberline {c)}Torseur dynamique}{6}{subsubsection.2.3.3}% 
+\contentsline {subsubsection}{\numberline {d)}\IeC {\'E}nonc\IeC {\'e} du Principe Fondamental de la Dynamique (PFD)}{7}{subsubsection.2.3.4}% 
+\contentsline {subsection}{\numberline {2.4}Cas d'un ensemble de solides}{7}{subsection.2.4}% 
+\contentsline {section}{\numberline {3}Calcul pratique du torseur dynamique}{8}{section.3}% 
+\contentsline {subsection}{\numberline {3.1}Cas particuliers classiques}{8}{subsection.3.1}% 
+\contentsline {subsubsection}{\numberline {a)}Solide en translation}{8}{subsubsection.3.1.1}% 
+\contentsline {subsubsection}{\numberline {b)}Solide en rotation autour d'un axe fixe \ensuremath {\left (O,\vecteur {z}[]\right )}}{8}{subsubsection.3.1.2}% 
+\contentsline {subsection}{\numberline {3.2}M\IeC {\'e}thodologie du calcul du moment dynamique}{9}{subsection.3.2}% 
+\contentsline {subsubsection}{\numberline {a)}Relation entre torseur cin\IeC {\'e}tique et torseur dynamique}{9}{subsubsection.3.2.1}% 
+\contentsline {subsubsection}{\numberline {b)}Moment dynamique au centre de gravit\IeC {\'e} $G$}{9}{subsubsection.3.2.2}% 
+\contentsline {subsubsection}{\numberline {c)}Moment dynamique en projection sur un axe port\IeC {\'e} par $\vecteur {z}[]$}{10}{subsubsection.3.2.3}% 
+\contentsline {subsection}{\numberline {3.3}Exemple : Eolienne bipale}{10}{subsection.3.3}% 
+\contentsline {section}{\numberline {4}Annexes}{16}{section.4}% 
+\contentsline {subsection}{\numberline {4.1}Preuve que les moments dynamiques forment un champ de torseur}{16}{subsection.4.1}% 
+\contentsline {subsection}{\numberline {4.2}Moment dynamique pour un solide en translation}{16}{subsection.4.2}% 
+\contentsline {subsubsection}{\numberline {a)}Moment dynamique en $G$}{16}{subsubsection.4.2.1}% 
+\contentsline {subsubsection}{\numberline {b)}Moment dynamique en un point quelconque $A$}{16}{subsubsection.4.2.2}% 
+\contentsline {subsection}{\numberline {4.3}Moment dynamique pour un solide en rotation autour d'un axe fixe \ensuremath {\left (O,\vecteur {z}[]\right )}}{17}{subsection.4.3}% 
+\contentsline {subsection}{\numberline {4.4}Preuve du lien entre torseur cin\IeC {\'e}tique et torseur dynamique}{17}{subsection.4.4}% 
+\contentsline {subsubsection}{\numberline {a)}R\IeC {\'e}sultantes}{17}{subsubsection.4.4.1}% 
+\contentsline {subsubsection}{\numberline {b)}Moments}{17}{subsubsection.4.4.2}% 
